@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "titulo": "tarea 1",
+      "responsable": "mauricio",
+      "descripcion": "lavar los platos",
+      "prioridad": "baja"
+    },
+    {
+      "titulo": "tarea 2",
+      "responsable": "mely",
+      "descripcion": "jugar cod",
+      "prioridad": "alta"
+    },
+    {
+      "titulo": "tarea 3",
+      "responsable": "alejandra",
+      "descripcion": "tocar la guitarra",
+      "prioridad": "media"
+    },
+    {
+      "titulo": "tarea 3",
+      "responsable": "alejandra",
+      "descripcion": "tocar la guitarra",
+      "prioridad": "media"
+    },
+    {
+      "titulo": "tarea 3",
+      "responsable": "alejandra",
+      "descripcion": "tocar la guitarra",
+      "prioridad": "media"
+    },
+    {
+      "titulo": "tarea 3",
+      "responsable": "alejandra",
+      "descripcion": "tocar la guitarra",
+      "prioridad": "media"
+    },
+    {
+      "titulo": "tarea 3",
+      "responsable": "alejandra",
+      "descripcion": "tocar la guitarra",
+      "prioridad": "media"
+    }
+  ]
+}

@@ -6,13 +6,28 @@
   height: 40vmin;
   pointer-events: none;
 }
+.contenedor-logo {
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.carta {
+  background: rgba(0, 0, 0, 0.3);
+  color: rgb(255, 255, 255);
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
